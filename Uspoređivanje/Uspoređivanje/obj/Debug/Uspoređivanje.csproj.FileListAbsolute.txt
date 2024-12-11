@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\bin\Debug\Uspoređivanje.exe.config
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\bin\Debug\Uspoređivanje.exe
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\bin\Debug\Uspoređivanje.pdb
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\obj\Debug\Uspoređivanje.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\obj\Debug\Uspoređivanje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\obj\Debug\Uspoređivanje.exe
+C:\Users\Učenik\source\repos\Uspoređivanje\Uspoređivanje\obj\Debug\Uspoređivanje.pdb
